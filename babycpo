@@ -8,3 +8,6 @@ Multi line strings in python can be used as multi line comments if they are not 
 a
 multiline comment in python
 which expands to many lines"""
+
+3.If the name of a file is app.py what do we type in the command line to tell our computer to run it?
+hello world
