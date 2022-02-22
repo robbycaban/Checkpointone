@@ -13,6 +13,7 @@ print(friendly_greeting)
 On the first line of this program, we are using = to assign the value "Hello World" to the variable friendly_greeting. If you were to add more lines to your program, you could refer to the String "Hello World" simply by using the variable name friendly_greeting.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 2f9a041 (updating corrections)
@@ -31,4 +32,6 @@ Step 3. Push your changes to your git repo.
 >>>>>>> parent of 2f9a041 (updating corrections)
 =======
 >>>>>>> parent of 2f9a041 (updating corrections)
+=======
+>>>>>>> parent of ec548fc (q7)
 
