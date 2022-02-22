@@ -12,7 +12,10 @@ print(friendly_greeting)
 
 On the first line of this program, we are using = to assign the value "Hello World" to the variable friendly_greeting. If you were to add more lines to your program, you could refer to the String "Hello World" simply by using the variable name friendly_greeting.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 2f9a041 (updating corrections)
 6.On the first line of this program, we are using = to assign the value "Hello World" to the variable friendly_greeting. If you were to add more lines to your program, you could refer to the String "Hello World" simply by using the variable name friendly_greeting.
 
 What can I do to prevent certain files and directories from being tracked by git?
@@ -24,5 +27,8 @@ Step 2. Remove the folder from your local git tracking, but keep it on your disk
 git rm -r --cached path_to_your_folder/
 
 Step 3. Push your changes to your git repo.
+<<<<<<< HEAD
+>>>>>>> parent of 2f9a041 (updating corrections)
+=======
 >>>>>>> parent of 2f9a041 (updating corrections)
 
