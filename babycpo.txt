@@ -15,13 +15,3 @@ hello world
 Demonstrate how I can tell a Python program to display something in the command line.
 print
 python3 hello_world.py
-.5 What can we use to save a value for later use in our code? Provide an example.
-How do I save values for later use?
-
-In Python, can give a value an easy-to-remember label and use it again and again.
-especially useful if the value itself is long and tricky to type out.
-Programmers refer to these labels as variables.
-
-friendly_greeting = "Hello World"
-
-print(friendly_greeting)
