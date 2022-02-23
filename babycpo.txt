@@ -15,3 +15,11 @@ hello world
 Demonstrate how I can tell a Python program to display something in the command line.
 print
 python3 hello_world.py
+
+#5. What can we use to save a value for later use in our code? Provide an example. 
+#We can use a variable. 
+
+#6 What can I do to prevent certain files and directories from being tracked by git? 
+
+Use .gitignore and place the directory that you dont want tracked in that file, /t
+and place files that you dont want tracked in that file 
