@@ -23,3 +23,18 @@ python3 hello_world.py
 
 Use .gitignore and place the directory that you dont want tracked in that file, /t
 and place files that you dont want tracked in that file 
+#7.What can be used in order to repeat some block of code? Provide 2 examples. 
+# Use a for loop and a while loop. 
+'''
+count = 0 
+
+while count < 5:
+        print ("This is a loop.") 
+        count = count + 1 
+''' 
+'''
+sum = 0 
+for i in range (5): 
+    sum = sum + i 
+print(sum) 
+''' 
