@@ -38,3 +38,5 @@ for i in range (5):
     sum = sum + i 
 print(sum) 
 ''' 
+8. When saving a value for later use what type of operator do we use? 
+We use variable 
