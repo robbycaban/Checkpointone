@@ -49,4 +49,8 @@ while git reset deletes and clears history
 ''' 
 10. Whats the key difference between Python lists and tuplets? 
 The key differnece is that lists is that the values in a tuplet but you can use a tuplet in a list. 
+11. What can I do to know where I am within my file system?
+pwd
+  
+
 
