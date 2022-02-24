@@ -47,3 +47,6 @@ Git revert deletes the contents but tracks a new change and commit,
 while git reset deletes and clears history
 
 ''' 
+10. Whats the key difference between Python lists and tuplets? 
+The key differnece is that lists is that the values in a tuplet but you can use a tuplet in a list. 
+
