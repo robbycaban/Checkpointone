@@ -40,3 +40,10 @@ print(sum)
 ''' 
 8. When saving a value for later use what type of operator do we use? 
 We use variable 
+
+9.What's the key difference between git revert and git reset?
+'''
+Git revert deletes the contents but tracks a new change and commit, 
+while git reset deletes and clears history
+
+''' 
