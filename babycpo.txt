@@ -1,7 +1,7 @@
-What are comments? Commenting involves placing Human Readable Descriptions inside of computer programs detailing what the Code is doing
+1. What are comments? Commenting involves placing Human Readable Descriptions inside of computer programs detailing what the Code is doing
+
 2.This is a single line comment in python
 print("Pythonforbeginners.com") #This is also a python comment
-
 Multi line strings in python can be used as multi line comments if they are not assigned to variables. When the string isn’t assigned to any variable, they are parsed and evaluated by the interpreter but no byte code is generated because no address can be assigned to the strings. Effectively the unassigned multi line string works as a multi line comment.
 
 """This is
@@ -17,14 +17,14 @@ print
 python3 hello_world.py
 
 #5. What can we use to save a value for later use in our code? Provide an example. 
-#We can use a variable. 
+ We can use a variable. 
 
 #6 What can I do to prevent certain files and directories from being tracked by git? 
 
 Use .gitignore and place the directory that you dont want tracked in that file, /t
 and place files that you dont want tracked in that file 
 #7.What can be used in order to repeat some block of code? Provide 2 examples. 
-# Use a for loop and a while loop. 
+ Use a for loop and a while loop. 
 '''
 count = 0 
 
@@ -50,7 +50,13 @@ while git reset deletes and clears history
 10. Whats the key difference between Python lists and tuplets? 
 The key differnece is that lists is that the values in a tuplet but you can use a tuplet in a list. 
 11. What can I do to know where I am within my file system?
-pwd
-  
+pwd - print working directory 
+
+12. Describe the anatomy of a Python dictionary and create one below.
+anatomy " of a dictionary: keys, values, and key-value pairs.
+Dictionaries are optimized to retrieve values when the key is known. 
+The following declares a dictionary object. Example: Dictionary. capitals = {"USA":"Washington D.C.", "France":"Paris", "India":"New Delhi"} Above, capitals is a dictionary object which contains key-value pairs inside { } .
+
+
 
 
